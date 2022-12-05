@@ -3,6 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
+body{
+    background-color: rgb(15, 34, 34);
+}
 .background{
     width: 450px;
     height: 500px;
